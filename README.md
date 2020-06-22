@@ -17,6 +17,10 @@
 
 
 ## 安装
+下载jiuweiyaohu.zip文件到本地，在Rainbow-Fart中导入即可
+
+![zipfile](./result/zipfile.png)
+
 
 ![import](./result/import.png)
 
