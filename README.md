@@ -18,6 +18,7 @@
 
 ## 安装
 下载jiuweiyaohu.zip文件到本地，在Rainbow-Fart中导入即可
+[jiuweiyaohu.zip语音包](https://github.com/lineuman/jiuweiyaohu-rainbow-fart/files/4813398/jiuweiyaohu.zip)
 
 ![zipfile](./result/zipfile.png)
 
