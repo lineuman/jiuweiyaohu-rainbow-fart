@@ -25,6 +25,8 @@
 
 ![fengbao](./result/fengbao.png)
 
+![darkfeng](./result/dark_feng.png)
+
 
 ## 安装
 ### 阿狸语音包
