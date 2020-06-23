@@ -12,6 +12,8 @@
 ## 列表语音包
 :white_check_mark: 阿狸
 
+:negative_squared_cross_mark: 风暴之怒-迦娜
+
 :negative_squared_cross_mark: 德玛西亚-皇子
 
 ## 预览
