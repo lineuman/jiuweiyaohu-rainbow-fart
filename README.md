@@ -12,7 +12,7 @@
 ## 列表语音包
 :white_check_mark: 阿狸
 
-:negative_squared_cross_mark: 风暴之怒-迦娜
+:white_check_mark: 风暴之怒-迦娜
 
 :negative_squared_cross_mark: 德玛西亚-皇子
 
@@ -22,9 +22,11 @@
 
 ![dark](./result/dark.png)
 
+![fengbao](./result/fengbao.png)
 
 
 ## 安装
+### 阿狸语音包
 下载jiuweiyaohu.zip文件到本地，在Rainbow-Fart中导入即可
 [jiuweiyaohu.zip语音包](https://github.com/lineuman/jiuweiyaohu-rainbow-fart/files/4813398/jiuweiyaohu.zip)
 
@@ -32,6 +34,9 @@
 
 
 ![import](./result/import.png)
+
+### 风女语音包
+![voice](./result/fengvoice.png)
 
 
 如果你有在用，记得给我点个Star，让我知道有人在使用，Thank You❤️
