@@ -9,11 +9,17 @@
 
 [B站小伙伴](https://www.bilibili.com/video/BV1FW411X778?from=search&seid=2545271515529161195)
 
+## 列表语音包
+:white_check_mark: 阿狸
+
+:negative_squared_cross_mark: 德玛西亚-皇子
+
 ## 预览
 
 ![white](./result/white.png)
 
 ![dark](./result/dark.png)
+:white_check_mark:
 
 
 ## 安装
