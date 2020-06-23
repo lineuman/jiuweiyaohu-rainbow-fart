@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 mkdir -p ./dist
-zip -D "./dist/huangzi.zip" *.mp3 *.png *.md manifest.json
+zip -D "./dist/fengbao.zip" *.mp3 *.png *.md *.json

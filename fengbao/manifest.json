@@ -1,10 +1,10 @@
 {
-  "name": "jiuweiyaohu",
-  "display-name": "英雄联盟 九尾妖狐·阿狸",
-  "avatar": "louise.png",
-  "avatar-dark": "louise.png",
+  "name": "fengbao",
+  "display-name": "英雄联盟 风暴之怒 迦娜",
+  "avatar": "a.png",
+  "avatar-dark": "a.png",
   "version": "0.0.1",
-  "description": "九尾妖狐是一个高技能伤害的英雄，她可以不断在团战边缘游走并且凭借自己短CD的技能持续输出伤害。 并且漂亮的法师型刺客，声音甜美销魂，身材苗条性感，是造型控的首选之一",
+  "description": "迦娜曾在各大赛事频频出现，她拥有强大的控制技能和保护己方输出的能力，并且能给予队友强大的技能并不非常依赖装备，即使是AP法伤值为0或者经济发展不好，她的技能仍可以在团战中起到很好的作用，乃至是游戏后期也同样如此。",
   "languages": [
     "javascript"
   ],
@@ -18,9 +18,9 @@
         "=>"
       ],
       "voices": [
-        "function_01.mp3",
-        "function_02.mp3",
-        "function_03.mp3"
+        "fengnv_01.mp3",
+        "fengnv_02.mp3",
+        "fengnv_03.mp3"
       ]
     },
     {
@@ -28,7 +28,7 @@
         "=>"
       ],
       "voices": [
-        "arrow_function_01.mp3"
+        "fengnv_04.mp3"
       ]
     },
     {
@@ -36,9 +36,9 @@
         "if"
       ],
       "voices": [
-        "if_01.mp3",
-        "if_02.mp3",
-        "if_03.mp3"
+        "fengnv_05.mp3",
+        "fengnv_06.mp3",
+        "fengnv_07.mp3"
       ]
     },
     {
@@ -47,9 +47,9 @@
         "while"
       ],
       "voices": [
-        "for_01.mp3",
-        "for_02.mp3",
-        "for_03.mp3"
+        "fengnv_08.mp3",
+        "fengnv_09.mp3",
+        "fengnv_10.mp3"
       ]
     },
     {
@@ -57,9 +57,9 @@
         "await"
       ],
       "voices": [
-        "await_01.mp3",
-        "await_02.mp3",
-        "await_03.mp3"
+        "fengnv_11.mp3",
+        "fengnv_12.mp3",
+        "fengnv_13.mp3"
       ]
     },
     {
@@ -67,9 +67,9 @@
         "catch"
       ],
       "voices": [
-        "catch_01.mp3",
-        "catch_02.mp3",
-        "catch_03.mp3"
+        "fengnv_14.mp3",
+        "fengnv_15.mp3",
+        "fengnv_16.mp3"
       ]
     },
     {
@@ -77,8 +77,8 @@
         "import"
       ],
       "voices": [
-        "import_01.mp3",
-        "import_02.mp3"
+        "fengnv_17.mp3",
+        "fengnv_18.mp3"
       ]
     },
     {
@@ -86,7 +86,7 @@
         "v-html"
       ],
       "voices": [
-        "v_html_01.mp3"
+        "fengnv_19.mp3"
       ]
     },
     {
@@ -94,7 +94,7 @@
         "$time_morning"
       ],
       "voices": [
-        "time_morning_01.mp3"
+        "fengnv_20.mp3"
       ]
     },
     {
@@ -102,10 +102,10 @@
         "$time_before_noon"
       ],
       "voices": [
-        "time_before_noon_01.mp3",
-        "time_before_noon_02.mp3",
-        "time_before_noon_03.mp3",
-        "time_before_noon_04.mp3"
+        "fengnv_21.mp3",
+        "fengnv_22.mp3",
+        "fengnv_23.mp3",
+        "fengnv_24.mp3"
       ]
     },
     {
@@ -113,7 +113,7 @@
         "$time_noon"
       ],
       "voices": [
-        "time_noon_01.mp3"
+        "fengnv_25.mp3"
       ]
     },
     {
@@ -121,7 +121,7 @@
         "$time_evening"
       ],
       "voices": [
-        "time_evening_01.mp3"
+        "fengnv_26.mp3"
       ]
     },
     {
@@ -129,7 +129,7 @@
         "$time_midnight"
       ],
       "voices": [
-        "time_midnight_01.mp3"
+        "fengnv_27.mp3"
       ]
     },
     {
@@ -137,11 +137,11 @@
         "$time_each_hour"
       ],
       "voices": [
-        "time_each_hour_01.mp3",
-        "time_each_hour_02.mp3",
-        "time_each_hour_03.mp3",
-        "time_each_hour_04.mp3",
-        "time_each_hour_05.mp3"
+        "fengnv_28.mp3",
+        "fengnv_29.mp3",
+        "fengnv_30.mp3",
+        "fengnv_31.mp3",
+        "fengnv_32.mp3"
       ]
     }
   ]
