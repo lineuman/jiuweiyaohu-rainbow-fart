@@ -19,7 +19,7 @@
 ![white](./result/white.png)
 
 ![dark](./result/dark.png)
-:white_check_mark:
+
 
 
 ## 安装
