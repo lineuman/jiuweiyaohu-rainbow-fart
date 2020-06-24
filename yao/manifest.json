@@ -1,0 +1,148 @@
+{
+  "name": "yao",
+  "display-name": "卡哇伊的小姐姐姐",
+  "avatar": "a.png",
+  "avatar-dark": "a.png",
+  "version": "0.0.1",
+  "description": "卡哇伊的小姐姐姐的语音包",
+  "languages": [
+    "javascript"
+  ],
+  "author": "lineuman",
+  "gender": "female",
+  "locale": "zh",
+  "contributes": [
+    {
+      "keywords": [
+        "function",
+        "=>"
+      ],
+      "voices": [
+        "001.mp3",
+        "002.mp3",
+        "003.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "=>"
+      ],
+      "voices": [
+        "004.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "if"
+      ],
+      "voices": [
+        "005.mp3",
+        "006.mp3",
+        "007.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "for",
+        "while"
+      ],
+      "voices": [
+        "008.mp3",
+        "009.mp3",
+        "010.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "await"
+      ],
+      "voices": [
+        "011.mp3",
+        "012.mp3",
+        "013.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "catch"
+      ],
+      "voices": [
+        "014.mp3",
+        "015.mp3",
+        "016.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "import"
+      ],
+      "voices": [
+        "017.mp3",
+        "018.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "v-html"
+      ],
+      "voices": [
+        "019.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "020.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_before_noon"
+      ],
+      "voices": [
+        "021.mp3",
+        "022.mp3",
+        "023.mp3",
+        "024.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "025.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "026.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "027.mp3"
+      ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "028.mp3",
+        "029.mp3",
+        "030.mp3",
+        "031.mp3",
+        "032.mp3"
+      ]
+    }
+  ]
+}

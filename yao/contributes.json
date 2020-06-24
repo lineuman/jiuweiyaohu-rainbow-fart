@@ -1,0 +1,102 @@
+{
+    "contributes": [
+        {
+            "keywords": ["function", "=>"],
+            "voices":[
+                "fengnv_01.mp3",
+                "fengnv_02.mp3",
+                "fengnv_03.mp3"
+            ]
+        },
+        {
+            "keywords": ["=>"],
+            "voices": ["fengnv_04.mp3"]
+        },
+        {
+            "keywords": ["if"],
+            "voices": [
+                "fengnv_05.mp3",
+                "fengnv_06.mp3",
+                "fengnv_07.mp3"
+            ]
+        },
+        {
+            "keywords": ["for", "while"],
+            "voices": [
+                "fengnv_08.mp3",
+                "fengnv_09.mp3",
+                "fengnv_10.mp3"
+            ]
+        },
+        {
+            "keywords": ["await"],
+            "voices": [
+                "fengnv_11.mp3",
+                "fengnv_12.mp3",
+                "fengnv_13.mp3"
+            ]
+        },
+        {
+            "keywords": ["catch"],
+            "voices": [
+                "fengnv_14.mp3",
+                "fengnv_15.mp3",
+                "fengnv_16.mp3"
+            ]
+        },
+        {
+            "keywords": ["import"],
+            "voices": [
+                "fengnv_17.mp3",
+                "fengnv_18.mp3"
+            ]
+        },
+        {
+            "keywords": ["v-html"],
+            "voices": [
+                "fengnv_19.mp3"
+            ]
+        },
+        {
+            "keywords": ["fuck", "shit"],
+            "voices": [
+                "fengnv_20.mp3",
+                "fengnv_21.mp3"
+            ]
+        },
+        {
+            "keywords": ["$time_morning"],
+            "voices": ["fengnv_22.mp3"]
+        },
+        {
+            "keywords": ["$time_before_noon"],
+            "voices": [
+                "fengnv_23.mp3",
+                "fengnv_24.mp3",
+                "fengnv_25.mp3",
+                "fengnv_26.mp3"
+            ]
+        },
+        {
+            "keywords": ["$time_noon"],
+            "voices": ["fengnv_27.mp3"]
+        },
+        {
+            "keywords": ["$time_evening"],
+            "voices": ["fengnv_28.mp3"]
+        },
+        {
+            "keywords": ["$time_midnight"],
+            "voices": ["fengnv_29.mp3"]
+        },
+        {
+            "keywords": ["$time_each_hour"],
+            "voices": [
+                "fengnv_30.mp3",
+                "fengnv_31.mp3",
+                "fengnv_32.mp3",
+                "fengnv_33.mp3"
+            ]
+        }
+    ]
+}
