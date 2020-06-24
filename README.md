@@ -15,7 +15,7 @@
 
 :white_check_mark: 风暴之怒-迦娜
 
-:negative_squared_cross_mark: 王者荣耀 瑶
+:white_check_mark: 王者荣耀 瑶
 
 :negative_squared_cross_mark: 德玛西亚-皇子
 
