@@ -1,4 +1,4 @@
-# lol rainbow-fart 语音包
+# lol rainbow-fart voice pack
 
 ## 九尾妖狐-阿狸
 >阿狸是漂亮的法师型刺客，声音甜美销魂，身材苗条性感，是造型控的首选之一，谁不想一遍写代码一遍玩游戏呢？
